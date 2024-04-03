@@ -1,0 +1,13 @@
+	Welcome webcode reatil
+
+ Bill no: 5707
+ Customer name: dfvv
+ Phone no: 345
+=======================================
+ products			QTY 	Price
+=======================================
+ Rice		2		80
+---------------------------------------
+ Cosmetic tax			Rs. 4.0
+ Total bill: 			Rs. 84.0
+---------------------------------------

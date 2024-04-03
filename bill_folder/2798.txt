@@ -1,0 +1,21 @@
+	Welcome webcode reatil
+
+ Bill no: 2798
+ Customer name: VAIJEENATH
+ Phone no: 9595753142
+ Gst no: A256DFE
+=============================================
+ products			QTY 	Price
+=============================================
+ Bath soap			5	600
+ Loshan				1	95
+ Food oil			2	190
+ Spray				2	200
+ Face cream			2	40
+ Face wash			3	90
+---------------------------------------------
+ Vegetable tax			Rs. 54.0
+ Dal & rice tax			Rs. 19.5
+ south indian tax		Rs. 6.5
+ Total bill: 			Rs. 1680.0
+--------------------------------------------

@@ -1,0 +1,17 @@
+	Welcome webcode reatil
+
+ Bill no: 3245
+ Customer name: dffffffffffffff
+ Phone no: 535
+=======================================
+ products			QTY 	Price
+=======================================
+ Bath soap			2	80
+ Rice		1		40
+ Face cream			1	120
+---------------------------------------
+ Cosmetic tax			Rs. 4.0
+ Cold drinks tax			Rs. 6.0
+ Cosmetic tax			Rs. 2.0
+ Total bill: 			Rs. 252.0
+---------------------------------------

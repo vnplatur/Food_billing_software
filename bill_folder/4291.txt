@@ -1,0 +1,20 @@
+	Welcome webcode reatil
+
+ Bill no: 4291
+ Customer name: vaijeenath
+ Phone no: 9595753142
+ Gst no: 287ANNA
+=======================================
+ products			QTY 	Price
+=======================================
+ Face cream			2	230
+ Loshan			2	0
+ daal			5	450
+ Face cream			4	80
+ Face wash			2	60
+---------------------------------------
+ Vegetable tax			Rs. 23.5
+ Dal & rice tax			Rs. 22.5
+ south indian tax			Rs. 7.0
+ Total bill: 			Rs. 1113.0
+---------------------------------------

@@ -1,0 +1,13 @@
+	Welcome webcode reatil
+
+ Bill no: 5600
+ Customer name: gfh
+ Phone no: 434356
+=======================================
+ products			QTY 	Price
+=======================================
+ Bath soap			1	40
+---------------------------------------
+ Cosmetic tax			Rs. 2.0
+ Total bill: 			Rs. 42.0
+---------------------------------------
